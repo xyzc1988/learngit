@@ -3,5 +3,3 @@ test2
 dev
 Btest3
 devtest1
-Btest4
-Atest
