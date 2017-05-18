@@ -1,7 +1,1 @@
-Amaster1
-Bdev1
-Adev1
-Adev2
-Adev3
-
-Bdev2
+Bmaster
